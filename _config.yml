@@ -4,6 +4,9 @@ description:    "Snapshots of my interests"
 url:            "https://www.lycarter.com"
 logo:           /assets/apple-touch-icon.png
 
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
 # Author
 author:
   name:         Landon Carter
@@ -12,6 +15,8 @@ author:
 
 # Build settings
 markdown:       kramdown
+include:
+  - _pages
 
 # Assets
 sass:
@@ -20,6 +25,7 @@ sass:
 
 # Gems
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
