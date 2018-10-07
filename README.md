@@ -16,5 +16,13 @@ Debugging info is found at `/about-technical/`
 
 For setting page-specific sharing tags: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
+For merging upstream master:
+
+```
+git remote add upstream git@github.com:chesterhow/tale.git
+git fetch upstream
+git merge upstream/master
+```
+
 ## License
 See [LICENSE](https://github.com/lycarter/lycarter.github.com/blob/master/LICENSE)
