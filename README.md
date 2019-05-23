@@ -6,7 +6,7 @@ Tale is a minimal Jekyll theme curated for storytellers. I'm using it for my Jek
 
 ## How to run
 
-Install [Ruby](https://www.ruby-lang.org/en/), [rbenv](https://github.com/rbenv/rbenv), [bundler](http://bundler.io/), and [Jekyll](https://jekyllrb.com/), and update bashrc for Ruby support: https://github.com/lycarter/configs/blob/master/bashrc#L108-L109.
+Install [Ruby](https://www.ruby-lang.org/en/) using [rbenv](https://github.com/rbenv/rbenv), then install [bundler](http://bundler.io/), and [Jekyll](https://jekyllrb.com/).
 
 ```bundle exec jekyll serve --watch --drafts```
 
