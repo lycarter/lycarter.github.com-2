@@ -24,5 +24,27 @@ git fetch upstream
 git merge upstream/master
 ```
 
+For fixing git-lfs history:
+
+```
+$ git filter-branch --prune-empty --tree-filter '
+git lfs track "*.jpg"
+git lfs track "*.jpeg"
+git lfs track "*.gif"
+git lfs track "*.png"
+git lfs track "*.pdf"
+git add .gitattributes
+
+git ls-files -z | xargs -0 git check-attr filter | grep "filter: lfs" | sed -E "s/(.*): filter: lfs/\1/" | tr "\n" "\0" | while read -r -d $'"'\0'"' file; do
+    echo "Processing ${file}"
+
+    git rm -f --cached "${file}"
+    echo "Adding $file lfs style"
+    git add "${file}"
+done
+
+' --tag-name-filter cat -- --all
+```
+
 ## License
 See [LICENSE](https://github.com/lycarter/lycarter.github.com/blob/master/LICENSE)
