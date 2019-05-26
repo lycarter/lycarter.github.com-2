@@ -27,7 +27,7 @@ permalink: /projects/
 
 
 # Big Projects
-- [Shutter Clicks]({{ '/about' | prepend: site.baseurl }}) - this site! I started putting this together one day when I had a bit too much free time and was annoyed with Blogger's lack of customizability. I've been adding features and posts through the months.
+- [Shutter Clicks](/about) - this site! I started putting this together one day when I had a bit too much free time and was annoyed with Blogger's lack of customizability. I've been adding features and posts through the months.
 - [The Dentist](http://combat-robotics.mit.edu/buildlog/) - a 250 lb combat robot I built with a small team of friends for our entry in Battlebots Season 2. Unfortunately, we ran into some controller issues and couldn't compete. For The Dentist, I worked on the concept, mechanical design, CAD, and all of the machining. Blog posts still under construction. See also Rebecca's [writeup](http://rebecca.li/2016-9-20-the-dentist/).
 - [Frozen Chainsaw Massacre](http://rebecca.li/frozen-chainsaw-massacre/) - a go-kart I built with a small team of friends for the Power Racing Series. We ran into some reliability issues in both of the races we competed in, but managed to snag pole position in the qualifier for each race before everything exploded. I worked mostly on the steering geometry, CAD, and machining.
 - [D3NIGMA](http://d3nigma.herokuapp.com) - a website I worked on for 6.148, MIT's web programming competition. We were awarded best frontend design and honorable mention overall. I worked primarily on front-end, as well as UI/UX design.

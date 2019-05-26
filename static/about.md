@@ -7,7 +7,7 @@ permalink: /about/
 
 # Hello!
 
-A lot of my friends have blogs, why not me too? I explain a bit more on my [Hello World]({{ site.baseurl }}{% post_url 2018-03-07-hello-world %}) post, so probably read that first.
+A lot of my friends have blogs, why not me too? I explain a bit more on my [Hello World]({% post_url 2018-03-07-hello-world %}) post, so probably read that first.
 
 This blog may contain content on photography, machining, coding, baking, cooking, MIT, or anything else I decide is interesting. Feel free to follow along :)
 
@@ -15,7 +15,7 @@ This blog may contain content on photography, machining, coding, baking, cooking
 
 I'm Landon, but you probably already knew that. I graduated from MIT in 2017 and am finishing my M-Eng in 2018. In the fall I'll be moving to NYC to work at Palantir.
 
-I've also got a list of some of the [projects]({{ '/projects' | prepend: site.baseurl }}) I've worked on.
+I've also got a list of some of the [projects](/projects) I've worked on.
 
 ## Some technical stuff/"colophon"
 

@@ -20,17 +20,17 @@ layout: default
 <div class="tags">
   Tags:
   {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tags#{{ tag }}" class="tag">&#35;{{ tag }}</a>
+    <a href="/tags#{{ tag }}" class="tag">&#35;{{ tag }}</a>
   {% endfor %}
 </div>
 {% endif %}
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    <a href="{{ page.next.url }}" class="left arrow">&#8592;</a>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    <a href="{{ page.previous.url }}" class="right arrow">&#8594;</a>
   {% endif %}
 
   <a href="#" class="top">Top</a>
@@ -43,8 +43,8 @@ layout: default
 
 {% if page.gallery %}
   {% for src in page.other_image_sources %}
-    <script src="{{ "/assets/img/sizes/" | relative_url }}{{ src }}.js"></script>
+  <script src="/assets/img/sizes/{{ src }}.js"></script>
   {% endfor %}
-  <script src = "{{ "/assets/img/sizes/" | relative_url }}{{ page.id | remove_first: '/' | replace: '/', '-' }}.js"></script>
-  <script src="{{ "/assets/js/photoswipe-initializer.js" | relative_url }}"></script>
+  <script src = "/assets/img/sizes/{{ page.id | remove_first: '/' | replace: '/', '-' }}.js"></script>
+  <script src="/assets/js/photoswipe-initializer.js"></script>
 {% endif %}
