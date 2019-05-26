@@ -7,7 +7,7 @@ tags:
 - thoughts
 ---
 
-Last week, I finished up my MEng thesis and turned it in, which was my last task to accomplish before graduating, again. I've added it to my [projects]({{ '/projects' | prepend: site.baseurl }}) page.
+Last week, I finished up my MEng thesis and turned it in, which was my last task to accomplish before graduating, again. I've added it to my [projects](/projects) page.
 
 My thesis was titled "[Multi-Path Planning for Hydraulic Fluid Routing]({{ "/assets/pdf/MIT_Thesis.pdf" }})," and focused on a path-planning algorithm I started working on during a SuperUROP, designed to route hydraulic fluid pipes within a 3D printed robot. The algorithm is far more general than that though - it solves the circuit-routing problem, which has multiple paths routed through a common space without intersecting.
 
@@ -43,7 +43,7 @@ By adding the caching layer, I improved performance by an additional 50%.
 
 # Conclusion
 
-Frankly, I didn't have as much time to work on this research or my thesis as I would have liked. I was busy [TA'ing 2.009 and 2.744]({{ site.baseurl }}{% post_url 2018-05-18-taing-009-744 %}), which meant the amount of time I had to dedicate to research was pretty small. With some more time, I probably would have reimplemented everything in Java, or even better, learned C++ and implemented it in that. Java especially would have made debugging the caching layer addition quite a bit easier - I had a hell of a time debugging that without type-checking. Either reimplementation probably would have improved performance by a healthy margin. Anyway, feel free to shoot me a message or pull request if there's things you're interested in.
+Frankly, I didn't have as much time to work on this research or my thesis as I would have liked. I was busy [TA'ing 2.009 and 2.744]({% post_url 2018-05-18-taing-009-744 %}), which meant the amount of time I had to dedicate to research was pretty small. With some more time, I probably would have reimplemented everything in Java, or even better, learned C++ and implemented it in that. Java especially would have made debugging the caching layer addition quite a bit easier - I had a hell of a time debugging that without type-checking. Either reimplementation probably would have improved performance by a healthy margin. Anyway, feel free to shoot me a message or pull request if there's things you're interested in.
 
 On the (very unlikely) chance that you need to reference this work, here's the appropriate BibTeX citation, and here's the [Dspace link](https://dspace.mit.edu/handle/1721.1/119751):
 

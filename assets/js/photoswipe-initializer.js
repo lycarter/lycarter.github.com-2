@@ -241,12 +241,12 @@ var preprocessPhotoSwipeFromDOM = function(gallerySelector) {
             }
 
             var a = document.createElement("a");
-            a.setAttribute("href", "{{ site.baseurl }}/assets/img/" + large);
+            a.setAttribute("href", "/assets/img/" + large);
 
             a.setAttribute("data-size", SIZES[imageBase][imageName]);
 
             var innerThumbnail = document.createElement("img");
-            innerThumbnail.setAttribute("src", "{{ site.baseurl }}/assets/img/" + thumb);
+            innerThumbnail.setAttribute("src", "/assets/img/" + thumb);
             innerThumbnail.setAttribute("alt", figureEl.getAttribute("alt"));
             a.appendChild(innerThumbnail);
 
