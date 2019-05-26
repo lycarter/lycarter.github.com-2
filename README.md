@@ -1,4 +1,8 @@
-# Tale
+# Shutter Clicks
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de51fbac-26cb-4a06-9db5-dd0958fc3358/deploy-status)](https://app.netlify.com/sites/lycarter-blog/deploys)
+
+## Tale
 
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
