@@ -3,7 +3,7 @@ title:          Shutter Clicks
 description:    "Snapshots of my interests"
 url:            "https://www.lycarter.com"
 logo:           /assets/apple-touch-icon.png
-respository:    lycarter/blog
+respository:    "lycarter/blog"
 
 # Google Analytics
 google_analytics: UA-57039341-1
