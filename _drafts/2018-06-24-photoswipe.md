@@ -3,7 +3,7 @@ layout: post
 title: "Links of the Week 6/21"
 author: "Landon"
 tags:
-- LOTW
+- testing
 gallery: true
 ---
 
