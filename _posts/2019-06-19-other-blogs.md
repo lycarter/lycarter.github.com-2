@@ -14,6 +14,7 @@ I'm pretty sure most good blogs also make some reference to [relevant](https://x
 - [eQuals Zero](http://www.etotheipiplusone.net/)
 - [buildits](http://build-its-inprogress.blogspot.com/)
 - [Shane Colton](http://scolton.blogspot.com/)
+- [Rebecca Li](http://rebecca.li/blog/)
 - [Isopack](http://isopack.blogspot.com/)
 - [+C: The Variable Constant](https://thevariableconstant.blogspot.com/)
 - [YAMEB](http://yameb.blogspot.com/)
