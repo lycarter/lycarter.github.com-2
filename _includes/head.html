@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- xml feed -->
-  {% feed_meta %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
   <title>
     {% if page.title == "Home" %}
@@ -35,8 +35,6 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
 
   {% seo title=false %}
-  <!-- RSS -->
-  {% feed_meta %}
 
   <!-- Google Analytics-->
   {% if site.google_analytics and jekyll.environment == 'production' %}
