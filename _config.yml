@@ -28,7 +28,6 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
