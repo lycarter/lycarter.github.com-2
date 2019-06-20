@@ -4,6 +4,7 @@ title: "Site Improvements, pt 2"
 author: "Landon"
 tags:
 - meta
+- engineering
 ---
 
 I've made a couple of recent upgrades and improvements since writing [Jekyll Site Improvements]({% post_url 2018-05-09-site-improvements %}), so I'll go through them here.

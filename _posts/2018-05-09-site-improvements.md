@@ -4,6 +4,7 @@ title: "Jekyll Site Improvements"
 author: "Landon"
 tags:
 - meta
+- engineering
 ---
 
 I'll talk about some of the things I've done to make this site a bit more my own, or upgrade it a bit. You can also follow along in real-time by following the [source](https://github.com/lycarter/lycarter.github.com)

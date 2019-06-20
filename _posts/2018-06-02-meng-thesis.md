@@ -5,6 +5,7 @@ author: "Landon"
 math: true
 tags:
 - thoughts
+- engineering
 ---
 
 Last week, I finished up my MEng thesis and turned it in, which was my last task to accomplish before graduating, again. I've added it to my [projects](/projects) page.
