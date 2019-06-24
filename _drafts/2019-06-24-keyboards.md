@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Mechanical Keyboard, Part 1"
+title: "Custom Mechanical Keyboard, pt 1"
 author: "Landon"
 tags:
 - engineering
