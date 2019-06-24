@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assorted recipes and meals, H1 2019"
+title: "Assorted recipes"
 author: "Landon"
 tags:
 - recipes
