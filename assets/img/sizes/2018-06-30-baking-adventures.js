@@ -1,0 +1,1 @@
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2018-06-30-baking-adventures'] ={"2018-06-30-baking-adventures-2": "6000x4000", "2018-06-30-baking-adventures-3": "5567x3479", "2018-06-30-baking-adventures-1": "4919x3640", "2018-06-30-baking-adventures-6": "5098x3277", "2018-06-30-baking-adventures-4": "5872x4000", "2018-06-30-baking-adventures-5": "3931x2731"};
