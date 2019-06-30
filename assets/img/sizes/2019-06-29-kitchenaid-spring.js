@@ -1,0 +1,1 @@
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2019-06-29-kitchenaid-spring'] ={"2019-06-29-kitchenaid-spring-1": "3024x4032", "2019-06-29-kitchenaid-spring-2": "3024x4032"};
