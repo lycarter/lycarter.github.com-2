@@ -8,7 +8,41 @@ tags:
 
 I've been cooking a lot since moving to NYC, which has made me really happy. I haven't been documenting it as frequently on this blog though, so I'm afraid I might forget some of the really awesome recipes I've made. Eventually I might put together some sort of cookbook/gallery type thing to display all of the various recipes and photos, but for now I'll just dump them all here.
 
+# Meals
+
+## Carbonara
+
+Carbonara is a very simple pasta dish that's just a bit more refined than spaghetti (unless you make your own spaghetti sauce, at which point it becomes significantly more involved). I've made it a few times, and while it's hard to get perfect (I tend to either scramble the eggs a bit or add too much pasta water), it's always super tasty regardless.
+
+### Ingredients:
+- 1 lbs bucatini or thick spaghetti noodle
+- 1 lbs thick bacon
+- 7 egg yolks
+- 1/2 cup grated Pecorino/Parmesan
+- 2 tsp black pepper
+
+### Directions:
+1. Cook the bacon and pasta, timing to finish cooking at around the same time.
+2. Cut bacon into bite-sized pieces and whisk with egg yolks in a large bowl.
+3. Add pasta to bowl along with 1/2 cup pasta water, and toss vigorously with tongs.
+4. In batches, stir in cheese and pepper.
+
+This recipe is essentially [BA's Best Carbonara](https://www.bonappetit.com/recipe/the-silkiest-carbonara), but substitutes bucatini and bacon for rigatoni and guanciale.
+
+## Pizza
+
+## Ginger BBQ Chicken
+
+# Fish
+
 ## Fish tacos
+## Grilled tilapia
+## Seared tuna salad
+## Seared scallops
+
+# Sides / Small Dishes
+## Avocado toast
+## Vidalia onion thing
 
 ## Pickled red onions
 
@@ -29,6 +63,22 @@ Pickled red onions turn a gorgeous pink color in just a few hours, and are reall
 4. Stuff the onions into a mason jar, and pour the liquid mixture over it. Swirl, and refrigerate for at least 6 hours, and keep up to a couple weeks.
 
 This recipe I modified from [Sam the Cooking Guy](https://www.youtube.com/watch?v=3z2jTcsL28g) by adding garlic and increasing the peppercorns, some inspiration from Brad Leone from Bon Appetit, and my friend Fish.
+
+
+# Breakfast
+## Lemony glazed cake donuts
+## Biscuits
+## Jelly
+
+# Desert
+## Chocolate chip cookies with flaky sea salt
+## Macarons
+## Crepes milles
+## Parfait
+## Creme brulee
+## Chocolate soufle
+## Cheesecake
+## Coconut cake
 
 ## Blueberry pie
 
@@ -64,41 +114,21 @@ This recipe I simplified slightly from [BA's Best Blueberry Pie](https://www.bon
 
 
 
-## Grilled tilapia
 
-## Seared tuna salad
 
-## Avocado toast
 
-## Vidalia onion thing
 
-## Lemony glazed cake donuts
 
-## Coconut cake
 
-## Creme brulee
 
-## Chocolate soufle
 
-## Seared scallops
 
-## Carbonara
 
-## Cheesecake
 
-## Parfait
 
-## Chocolate chip cookies with flaky sea salt
 
-## Biscuits
 
-## Jelly
 
-## Pizza
 
-## Ginger BBQ Chicken
 
-## Crepes milles
-
-## Macarons
 

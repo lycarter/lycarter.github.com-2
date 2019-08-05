@@ -11,7 +11,7 @@ My friend Lilly ([@ltchin](https://litchin.wordpress.com)) recently posted a coo
 I'm pretty sure most good blogs also make some reference to [relevant](https://xkcd.com/1043/) [XKCD](https://xkcd.com/741/) [comics](https://xkcd.com/181/) so now that we've got that out of the way, I'll add my piece of interconnection to the blogosphere:
 
 ## Building/Robots/Electronics/Etc Blogs
-- [eQuals Zero](http://www.etotheipiplusone.net/)
+- [Equals Zero](http://www.etotheipiplusone.net/)
 - [buildits](http://build-its-inprogress.blogspot.com/)
 - [Shane Colton](http://scolton.blogspot.com/)
 - [Rebecca Li](http://rebecca.li/blog/)
