@@ -209,23 +209,8 @@ Filling
 
 This recipe I simplified slightly from [BA's Best Blueberry Pie](https://www.bonappetit.com/recipe/best-blueberry-pie), after obtaining an enormous quantity of really tasty blueberries. It turned out awesome on the first attempt, and I wouldn't change a thing.
 
+--
 
+That's all for now. I'll post more recipes later. On the docket are mostly a bunch more desserts.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As always, thanks for reading :)
