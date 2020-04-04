@@ -14,7 +14,7 @@ Just wanted to link-spam some Youtube channels and podcasts I've been watching r
 
 ## YouTube - Cooking
 - [Bon Appetit](https://www.youtube.com/user/BonAppetitDotCom): Bon Appetit is by far the most wholesome cult I've ever joined (I'm not in any cults). All of the presenters have a lovely, distinct personality and interplay with each other. The personalities are all much more natural than most YouTubers, since they're actually professional cooks whose day jobs is to test recipes, not to make YouTube videos. The video editing is on point as well.
-- [Binging with Babish](https://www.youtube.com/user/bgfilms): He has two main series - Basics with Babish and Binging with Babish. Basics with Babish focuses on the basic, classic recipes, done right, from scratch, with minimal frills but maximum tastiness. Binging with Babish is all about recreating specific dishes from TV shows, such as the [Harry Potter special](https://www.youtube.com/watch?v=LXDAu8DnALw)
+- [Binging with Babish](https://www.youtube.com/user/bgfilms): He has two main series - Basics with Babish and Binging with Babish. Basics with Babish focuses on the basic, classic recipes, done right, from scratch, with minimal frills but maximum tastiness. Binging with Babish is all about recreating specific dishes from TV shows, such as the [Harry Potter special](https://www.youtube.com/watch?v=LXDAu8DnALw).
 - [Alex French Guy Cooking](https://www.youtube.com/user/FrenchGuyCooking): Focuses on long-scale perfection of difficult recipes, though the past year or two of videos have declined in quality in my opinion. Check out the classic [ramen series](https://www.youtube.com/watch?v=JyZjoJcvHvE&list=PLURsDaOr8hWXGHjXPa3nTFZnbqJcAfs4N) for a taste of his best.
 
 ## YouTube - Making, long-scale projects
@@ -51,13 +51,11 @@ Just wanted to link-spam some Youtube channels and podcasts I've been watching r
 - [Magnus Midtbø](https://www.youtube.com/user/magmidt88): His hardest route ever was a 9b, and he also on-sighted an 8c+, which puts him somewhere in the top-10 in the world, but those ascents were in 2010 and 2013 respectively, and he's since retired from competitive climbing, so he's not quite that good anymore. He's still super strong, and his videos are really inspiring to go climbing.
 - [Juji & Tom](https://www.youtube.com/user/trickstutorials): Lots of clickbait, but an absolute monster of a man is somehow also incredibly flexible and light on his feet.
 
-## YouTube - Other
+## YouTube - Giants
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): The big tech YouTube channel, focuses on gaming computer builds that I don't generally find interesting but occasionally has some interesting projects.
 - [MKBHD](https://www.youtube.com/user/marquesbrownlee): Mostly phone reviews, which I don't find interesting, but also sometimes some really cool cinema gear or other reviews.
 - [Casy Neistat](https://www.youtube.com/user/caseyneistat): The OG vlogger. Some of the stuff is occasionally pretty interesting? It's all generally much less interesting to me now that he's not in NYC.
-- [Ben Horne](https://www.youtube.com/user/bensdmkII): Large format nature photographer, occasionally super relaxing to watch, but generally I'm only so-so on the actual results. Large format photographers have a tendancy to photograph very busy scenes, which I don't generally enjoy as much.
-- [Shut Up & Sit Down]
 
-And finally, possibly my favorite ever YouTube channel, [Wong Fu Productions](https://www.youtube.com/user/WongFuProductions). I haven't loved as much of their recent stuff, but they've been going at it for many years, and were the lynchpin of the OG Asian YouTubers crew, along with NigaHiga and KevJumba. Unlike those, Wong Fu has stayed on with cute sketches and short films, though I generally prefer the artsy videos generally directed by Wes, over the relationship videos generally directed by Phil. My absolute favorites are [SHELL](https://www.youtube.com/watch?v=VSkYbgxl93Y) and the [One Days: HK](https://www.youtube.com/watch?v=brSo-F-QLzA&list=PL1AD709D74A8EEBC4).
+And finally, possibly my favorite ever YouTube channel, [Wong Fu Productions](https://www.youtube.com/user/WongFuProductions). I haven't loved as much of their recent stuff, but they've been going at it for many years, and were the cornerstone of the OG Asian YouTubers crew, along with [NigaHiga](https://www.youtube.com/user/nigahiga) and [KevJumba](https://www.youtube.com/user/kevjumba). Unlike those, Wong Fu has stayed on with cute sketches and short films, though I generally prefer the artsy videos generally directed by Wes, over the relationship videos generally directed by Phil. My absolute favorites are [SHELL](https://www.youtube.com/watch?v=VSkYbgxl93Y) and the [One Days: HK](https://www.youtube.com/watch?v=brSo-F-QLzA&list=PL1AD709D74A8EEBC4).
 
 Anyway, thanks for reading. Maybe you discovered a new channel to follow to get you through the quarantine?
