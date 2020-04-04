@@ -117,7 +117,7 @@ These made the rounds on [Chris Morocco's Instagram](https://www.instagram.com/m
 
 As mentioned, this recipe came from [Chris Morocco at Bon Appetit](https://www.bonappetit.com/recipe/lemony-glazed-cake-doughnuts), and it was nearly perfection, though I increased the lemon zest by a decent amount my second time making them (reflected in the recipe above). This makes enough for 3 hungry people, or 4 normal people.
 
-# Desert
+# Dessert
 ## Coconut cake
 
 Strap in, this one's a doozy. Carla made a very long series on Bon Appetit about layer cakes, and this was one of the featured recipes. Unfortunately, it didn't contain any actual quantities, so I had to improvise a bit. I made this for my birthday in 2019, and it turned out delicious, but also enormous. Plan to feed a family of 5 for a week with this recipe, and beware making it with only two to consume, even if hosting a party.
