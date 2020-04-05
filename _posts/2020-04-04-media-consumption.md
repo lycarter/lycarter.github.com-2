@@ -6,7 +6,7 @@ tags:
 - LOTW
 ---
 
-Just wanted to link-spam some Youtube channels and podcasts I've been watching recently:
+Just wanted to link-spam some Youtube channels and podcasts I've been watching recently for this Links Of The Week:
 
 ## Podcasts
 - [Still Untitled](https://www.tested.com/still-untitled-the-adam-savage-project/): Adam Savage and some combination of Norm and Will from Tested, and occasionally a guest, talk about random stuff, usually pertaining to movies/tv shows.
