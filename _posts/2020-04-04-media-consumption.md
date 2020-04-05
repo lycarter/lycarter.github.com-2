@@ -48,13 +48,13 @@ Just wanted to link-spam some Youtube channels and podcasts I've been watching r
 - [Grimsmo Knives](https://www.youtube.com/channel/UC8SC-01ZKmzTIa2Usn6fexQ): If you can get past the hybrid knife-bro, manufacturing-bro culture, there's some really interesting high-end machining going on. They're currently moving into a new shop, which has been an interesting [series](https://www.youtube.com/watch?v=3vfAoxpRsgM).
 
 ## YouTube - Exercise
-- [Magnus Midtbø](https://www.youtube.com/user/magmidt88): His hardest route ever was a 9b, and he also on-sighted an 8c+, which puts him somewhere in the top-10 in the world, but those ascents were in 2010 and 2013 respectively, and he's since retired from competitive climbing, so he's not quite that good anymore. He's still super strong, and his videos are really inspiring to go climbing.
+- [Magnus Midtbø](https://www.youtube.com/user/magmidt88): Magnus is a climber - his hardest route ever was a 9b, and he also on-sighted an 8c+, which puts him somewhere in the top-10 in the world, but those ascents were in 2010 and 2013 respectively. He's since retired from competitive climbing, so he's not quite that good anymore, but he's still super strong and his videos are really inspiring to go climbing.
 - [Juji & Tom](https://www.youtube.com/user/trickstutorials): Lots of clickbait, but an absolute monster of a man is somehow also incredibly flexible and light on his feet.
 
 ## YouTube - Giants
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): The big tech YouTube channel, focuses on gaming computer builds that I don't generally find interesting but occasionally has some interesting projects.
 - [MKBHD](https://www.youtube.com/user/marquesbrownlee): Mostly phone reviews, which I don't find interesting, but also sometimes some really cool cinema gear or other reviews.
-- [Casy Neistat](https://www.youtube.com/user/caseyneistat): The OG vlogger. Some of the stuff is occasionally pretty interesting? It's all generally much less interesting to me now that he's not in NYC.
+- [Casey Neistat](https://www.youtube.com/user/caseyneistat): The OG vlogger. Some of the stuff is occasionally pretty interesting? It's all generally much less interesting to me now that he's not in NYC.
 
 And finally, possibly my favorite ever YouTube channel, [Wong Fu Productions](https://www.youtube.com/user/WongFuProductions). I haven't loved as much of their recent stuff, but they've been going at it for many years, and were the cornerstone of the OG Asian YouTubers crew, along with [NigaHiga](https://www.youtube.com/user/nigahiga) and [KevJumba](https://www.youtube.com/user/kevjumba). Unlike those, Wong Fu has stayed on with cute sketches and short films, though I generally prefer the artsy videos generally directed by Wes, over the relationship videos generally directed by Phil. My absolute favorites are [SHELL](https://www.youtube.com/watch?v=VSkYbgxl93Y) and the [One Days: HK](https://www.youtube.com/watch?v=brSo-F-QLzA&list=PL1AD709D74A8EEBC4).
 
