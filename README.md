@@ -19,7 +19,7 @@ Debugging info is found at `/about-technical/`
 ## Netlify
 
 - Install [netlify cli](https://docs.netlify.com/cli/get-started/)
-- Install lm addon `netlify lm:install`
+- Install lm addon `netlify plugins:install netlify-lm-plugin && netlify lm:install`
 - Add ca cert: `export NODE_EXTRA_CA_CERTS=/path/to/ca-bundle.crt`
 - Login: `netlify login`
 - Status: `netlify status`
