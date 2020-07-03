@@ -5,6 +5,7 @@ author: "Landon"
 tags:
 - art
 gallery: true
+image: "/assets/img/thumbnail/2020-07-03-miters-film-27_thumb_800.jpg"
 ---
 
 Back in Fall 2015, I took [4.344](http://act.mit.edu/academic-program/courses/fall-2016/4-3445-advanced-photography-and-related-media-3/), Advanced Photography and Related Media. The class was so-so - at the time, I was more interested in the technical aspects of photography, and the following semester in [2.671](http://web.mit.edu/2.671/www/) (Measurement and Instrumentation), I [measured the MTF of a photographic lens]({{ "/assets/pdf/nikonLenses.pdf" }}). However, during 4.344 we were required to shoot about 1 roll of film per week, so my film output dramatically increased. That was also the fall that I was hanging around MITERS the most, right after building the [go-kart](http://rebecca.li/frozen-chainsaw-massacre/), and right before building the [battlebot](http://combat-robotics.mit.edu/buildlog/).
