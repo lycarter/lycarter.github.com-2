@@ -16,6 +16,16 @@ Install [Ruby](https://www.ruby-lang.org/en/) using [rbenv](https://github.com/r
 
 Debugging info is found at `/about-technical/`
 
+## Netlify
+
+- Install [netlify cli](https://docs.netlify.com/cli/get-started/)
+- Install lm addon `netlify lm:install`
+- Add ca cert: `export NODE_EXTRA_CA_CERTS=/path/to/ca-bundle.crt`
+- Login: `netlify login`
+- Status: `netlify status`
+
+After that, git lfs should mostly just work with netlify.
+
 ## Other notes
 
 For setting page-specific sharing tags: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
