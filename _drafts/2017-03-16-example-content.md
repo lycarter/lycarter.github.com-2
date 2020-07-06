@@ -75,6 +75,12 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 
 Check out tale on [GitHub](https://github.com/chesterhow/tale).
 
+
+{% highlight markdown %}
+An example of an internal link: [Git LFS migration]({% post_url 2019-05-27-site-improvements-2 %})
+{% endhighlight %}
+An example of an internal link: [Git LFS migration]({% post_url 2019-05-27-site-improvements-2 %})
+
 # Images
 {% highlight markdown %}
 ![Placeholder image](https://placehold.it/800x400 "Placeholder image")
