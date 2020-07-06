@@ -10,11 +10,24 @@ Tale is a minimal Jekyll theme curated for storytellers. I'm using it for my Jek
 
 ## How to run
 
+### Jekyll Stuff
+
 Install [Ruby](https://www.ruby-lang.org/en/) using [rbenv](https://github.com/rbenv/rbenv) (make sure to `rbenv global <version>`), then install [bundler](http://bundler.io/), and [Jekyll](https://jekyllrb.com/).
 ```bundle install```
 ```bundle exec jekyll serve --watch --drafts```
 
 Debugging info is found at `/about-technical/`
+
+### Photo assets
+
+Todo: How to install virtualenv
+
+Once the virtualenv is installed:
+- `cd scripts`
+- `source venv/bin/activate`
+- `python thumbnail_generator.py`
+
+Todo: I should make the script automatically read EXIF data and rotate things appropriately for direct-from-phone photos. For now, exporting in Lightroom fixes things.
 
 ## Netlify
 
