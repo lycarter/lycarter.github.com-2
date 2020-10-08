@@ -32,7 +32,7 @@ def resizeImage(infile, suffix, output_dir, size):
     try:
         outfile = os.path.join(output_dir, filename) + suffix + converter[extension]
     except Exception as e:
-        print filename
+        print(filename)
         raise e
 
     if infile != outfile:
