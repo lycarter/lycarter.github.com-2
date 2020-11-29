@@ -1,0 +1,1 @@
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2020-11-29-xmas-decorations'] ={"2020-11-29-xmas-decorations-1": "1182x1373", "2020-11-29-xmas-decorations-3": "2604x3573", "2020-11-29-xmas-decorations-2": "2920x3893", "2020-11-29-xmas-decorations-5": "1080x1400", "2020-11-29-xmas-decorations-4": "3893x2920"};
