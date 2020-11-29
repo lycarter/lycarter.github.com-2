@@ -5,6 +5,26 @@ author: "Landon"
 permalink: /projects/
 ---
 
+# Big Projects
+- [Shutter Clicks](/about/#meta) - this site! I started putting this together one day when I had a bit too much free time and was annoyed with Blogger's lack of customizability. I've been adding features and posts through the months.
+- [The Dentist](http://combat-robotics.mit.edu/buildlog/) - a 250 lb combat robot I built with a small team of friends for our entry in Battlebots Season 2. Unfortunately, we ran into some controller issues and couldn't compete. For The Dentist, I worked on the concept, mechanical design, CAD, and all of the machining. Blog posts still under construction. See also Rebecca's [writeup](http://rebecca.li/2016-9-20-the-dentist/).
+- [Frozen Chainsaw Massacre](http://rebecca.li/frozen-chainsaw-massacre/) - a go-kart I built with a small team of friends for the Power Racing Series. We ran into some reliability issues in both of the races we competed in, but managed to snag pole position in the qualifier for each race before everything exploded. I worked mostly on the steering geometry, CAD, and machining.
+- [D3NIGMA](http://d3nigma.herokuapp.com) - a website I worked on for 6.148, MIT's web programming competition. We were awarded best frontend design and honorable mention overall. I worked primarily on front-end, as well as UI/UX design.
+
+# Small Projects
+- [Sierpinski Christmas Tree]({% post_url 2020-11-29-xmas-decorations %}) - due to COVID, I had to design a modular Christmas decoration for my small NYC apartment. I wound up with a beautiful and functional decorative that worked on the first try.
+- [3D Printing]({% post_url 2020-10-08-3d-printing %}) - I've 3D printed a lot for many mini-projects, which I compiled into a single gallery blog post. My favorite print of all of them is easily my custom-designed glasses case that I had printed in nylon by Shapeways, then sanded, polished, and painted myself. It stays closed with the help of a few magnets I glued in, and pivots on a pair of shoulder bolts. It's held up for over 2 years without any issues aside from paint and scratches.
+- Unread Emails (no longer functional) - a webpage displaying the results of a cron script I wrote, which logs and graphs my unread emails.
+- Sleep Tracker (no longer functional) - a webpage displaying an estimate of my sleep patterns, based on how many unread emails I have, and the principle that the first thing I do when I wake up and the last thing I do before going to sleep is check my email.
+- Moira Mapper (no longer functional) - a web interface I built for a script my friend wrote, for mapping MIT mailing lists.
+- [Mellow-D](https://hackmit2014.devpost.com/submissions/27785-mellow-d) - a website I worked on for HackMIT. We were awarded best hack for social good and the Quirky sponsor prize. I worked primarily on database generation and seeding.
+- [GraceJS](https://github.com/lycarter/gracejs) - a JS package I made for a friend of mine, based on [AntonioJS](http://victorhh.com/antoniojs).
+
+# Humanities
+- [Mixed Reality in Japanese Pop Culture]({{ "/assets/pdf/mixed_reality_japanese_digital.pdf" }}) - my final project for Digital Media in Japan and Korea, focusing on representations and views of virtual reality and augmented reality in Japanese pop culture. I took this class Spring '17.
+- [The History of the Japanese Optical Industry and Relationship to World Events]({{ "/assets/pdf/nikonHistory.pdf" }}) - my final project for Intro to Japanese culture, focusing on Nikon's involvement in WWII. I took this class Fall '16.
+- [Camera Movements and Color Toning as Plot Elements in _House of Flying Daggers_]({{ "/assets/pdf/hofd_essay.pdf" }}) - my final project for Modern Chinese Fiction and Cinema, focusing on artistic elements of HoFD, one of Zhang Yimou's famous films. I took this class Fall '14.
+
 # Research
 
 - [Multi-Path Planning for Hydraulic Fluid Routing]({{ "/assets/pdf/MIT_Thesis.pdf" }}) - My M. Eng thesis, an extension on the research below. This work focused on the fluid-routing algorithm, and performance optimizations I worked on during my M. Eng for Fall '17 and Spring '18.
@@ -24,23 +44,3 @@ permalink: /projects/
 - [2.671 Final Project]({{ "/assets/pdf/nikonLenses.pdf" }}) - For my Go Forth project in Measurement and Instrumentation, I investigated optical performance of a photographic lens by measuring its step response and calculating the transfer function. I took this class Spring '16.
 - [6.867 Final Project]({{ "/assets/pdf/featureSelection_imageClassification.pdf" }}) - For my final project for Machine Learning, with a partner, I mixed and matched various feature selection methods with various classification and clustering algorithms, looking at their performance in image classification on CIFAR-10. I took this class Fall '15.
 - [2.086 Final Project]({{ "/assets/pdf/Ball_and_Bob.pdf" }}) - For my final project for Numerical Computation, I looked at parameter fitting and sensitivity analysis for differential systems of motion. I took this class Fall '14
-
-
-# Big Projects
-- [Shutter Clicks](/about/#meta) - this site! I started putting this together one day when I had a bit too much free time and was annoyed with Blogger's lack of customizability. I've been adding features and posts through the months.
-- [The Dentist](http://combat-robotics.mit.edu/buildlog/) - a 250 lb combat robot I built with a small team of friends for our entry in Battlebots Season 2. Unfortunately, we ran into some controller issues and couldn't compete. For The Dentist, I worked on the concept, mechanical design, CAD, and all of the machining. Blog posts still under construction. See also Rebecca's [writeup](http://rebecca.li/2016-9-20-the-dentist/).
-- [Frozen Chainsaw Massacre](http://rebecca.li/frozen-chainsaw-massacre/) - a go-kart I built with a small team of friends for the Power Racing Series. We ran into some reliability issues in both of the races we competed in, but managed to snag pole position in the qualifier for each race before everything exploded. I worked mostly on the steering geometry, CAD, and machining.
-- [D3NIGMA](http://d3nigma.herokuapp.com) - a website I worked on for 6.148, MIT's web programming competition. We were awarded best frontend design and honorable mention overall. I worked primarily on front-end, as well as UI/UX design.
-
-# Small Projects
-- Unread Emails (no longer functional) - a webpage displaying the results of a cron script I wrote, which logs and graphs my unread emails.
-- Sleep Tracker (no longer functional) - a webpage displaying an estimate of my sleep patterns, based on how many unread emails I have, and the principle that the first thing I do when I wake up and the last thing I do before going to sleep is check my email.
-- Moira Mapper (no longer functional) - a web interface I built for a script my friend wrote, for mapping MIT mailing lists.
-- [Mellow-D](https://hackmit2014.devpost.com/submissions/27785-mellow-d) - a website I worked on for HackMIT. We were awarded best hack for social good and the Quirky sponsor prize. I worked primarily on database generation and seeding.
-- [GraceJS](https://github.com/lycarter/gracejs) - a JS package I made for a friend of mine, based on [AntonioJS](http://victorhh.com/antoniojs).
-
-# Humanities
-- [Mixed Reality in Japanese Pop Culture]({{ "/assets/pdf/mixed_reality_japanese_digital.pdf" }}) - my final project for Digital Media in Japan and Korea, focusing on representations and views of virtual reality and augmented reality in Japanese pop culture. I took this class Spring '17.
-- [The History of the Japanese Optical Industry and Relationship to World Events]({{ "/assets/pdf/nikonHistory.pdf" }}) - my final project for Intro to Japanese culture, focusing on Nikon's involvement in WWII. I took this class Fall '16.
-- [Camera Movements and Color Toning as Plot Elements in _House of Flying Daggers_]({{ "/assets/pdf/hofd_essay.pdf" }}) - my final project for Modern Chinese Fiction and Cinema, focusing on artistic elements of HoFD, one of Zhang Yimou's famous films. I took this class Fall '14.
-
